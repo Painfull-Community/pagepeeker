@@ -1,0 +1,8 @@
+{
+    "moduleName": "pagepeeker",
+    "locals": {
+        "en": {
+            "wait": "Here's a screenshot of that website! It'll take a few seconds to load."
+        }
+    } 
+}
